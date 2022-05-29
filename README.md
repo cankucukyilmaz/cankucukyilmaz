@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cankucukyilmaz
 - 👀 I’m interested in football, table tennis, basketball and theater
-- 🌱 I’m currently learning data analysis on coursera
+- 🌱 I’m currently learning data analysis on coursera & react on Codeacademy
 - 💞️ I’m looking to collaborate on game design
 - 📫 How to reach me -> canthecomputerscientist@gmail.com
 
