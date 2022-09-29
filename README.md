@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cankucukyilmaz
 - 👀 I’m interested in football, table tennis, basketball and theater
-- 🌱 I’m currently learning data analysis and react
+- 🌱 I’m currently studying cybersecurity
 - 💞️ I’m looking to collaborate on game design
 - 📫 How to reach me -> canthecomputerscientist@gmail.com
 
