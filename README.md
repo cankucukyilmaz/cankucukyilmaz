@@ -1,5 +1,5 @@
-# Hello!
-## I am...
+# Hello! I am...
+
 - @cankucukyilmaz
 - interested in football, table tennis, basketball and theater
 - currently studying TensorFlow and R programming
