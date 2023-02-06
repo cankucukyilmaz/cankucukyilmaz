@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @cankucukyilmaz
-- 👀 I’m interested in football, table tennis, basketball and theater
-- 🌱 I’m currently studying TensorFlow and R programming
-- 💞️ I’m looking to collaborate on game design
-- 📫 How to reach me -> canthecomputerscientist@gmail.com
+-  Hi, I’m @cankucukyilmaz
+-  I’m interested in football, table tennis, basketball and theater
+-  I’m currently studying TensorFlow and R programming
+-  I’m looking to collaborate on game design
+-  How to reach me -> canthecomputerscientist@gmail.com
 
 <!---
 cankucukyilmaz/cankucukyilmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
