@@ -4,6 +4,9 @@
 - interested in football, table tennis and theater
 - currently studying TensorFlow and R programming
 - looking to collaborate on game design
+
+<br>
+
 You can reach me on here -> canthecomputerscientist@gmail.com
 
 <!---
