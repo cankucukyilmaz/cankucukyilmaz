@@ -1,7 +1,7 @@
 # Hello! I am...
 
 - @cankucukyilmaz
-- interested in football, table tennis, basketball and theater
+- interested in football, table tennis and theater
 - currently studying TensorFlow and R programming
 - looking to collaborate on game design
 You can reach me on here -> canthecomputerscientist@gmail.com
