@@ -7,7 +7,7 @@
 
 <br>
 
-You can reach me on here -> canthecomputerscientist@gmail.com
+You can reach me on here -> kucukyilmazcan00@gmail.com
 
 <!---
 cankucukyilmaz/cankucukyilmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
