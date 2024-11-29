@@ -2,8 +2,7 @@
 
 - @cankucukyilmaz
 - interested in football, table tennis and theater
-- currently studying TensorFlow and R programming
-- looking to collaborate on game design
+- currently studying Master of Mathematics for Data Science at TUBAF
 
 <br>
 
